@@ -1,2 +1,2 @@
-# Humanoid-Robot-Club-at-Purdue
+# Humanoid-Robot-Club-Purdue
 Repository for Humanoid Robot Club Purdue - Electrical Team
