@@ -1,1 +1,3 @@
-
+This folder is created to upload programs to test fingers movements.
+- file "finger_test.ino" uses two linear actuators.
+- # please add more things here to update new information.
